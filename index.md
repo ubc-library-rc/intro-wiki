@@ -27,8 +27,8 @@ At the end of this workshop, participants will be able to:
 | 0:10 | Wikipedia |
 | 0:25 | Wikidata |   
 | 0:40 | Demos |
-| 0:40 | Activities |
-| 1:00 | Wrap-up and Discussion |
+| 1:00 | Activities |
+| 1:50 | Wrap-up and Discussion |
 
 ## Resources
 * Signing up to edit Wikipedia
