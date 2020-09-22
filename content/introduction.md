@@ -18,16 +18,3 @@ nav_order: 3
   * A free multi-lingual dictionary
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
   * A large-scale linked data project.
-
-# Community driven
-
-
-Wikimedia conference
-
-By being open to everyone crowdsourced projects such as Wikipedia leave themselves open to vandalism and misuse. Editorial guidelines and an open record of edits are help account for some of these concerns.
-
-## Impact on society
-
-https://diff.wikimedia.org/tag/the-impact-of-wikipedia/
-
-https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/01/04/do-you-fall-down-a-wikipedia-rabbit-hole-after-each-episode-of-the-crown-youre-not-alone/

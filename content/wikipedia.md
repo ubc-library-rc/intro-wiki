@@ -3,7 +3,6 @@ layout: default
 title: Wikipedia
 nav_order: 4
 ---
-<<<<<<< HEAD
 # Wikipedia
 Wikipedia is a multilingual, web-based, free-content encyclopedia based on a model of openly editable content.
 Edits occur in real-time and are written collaboratively by people of all ages, cultures and backgrounds. What is contributed is more important than the expertise or qualifications of the contributor.
@@ -68,6 +67,3 @@ Wikipedia's Conflict of Interest policy is largely focused on preventing contrib
 Learn more about Conflict of Interest: https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest
 
 Take a look at the [Wikipedia plain and simple conflict of interest guide](https://en.wikipedia.org/wiki/Wikipedia:Plain_and_simple_conflict_of_interest_guide).
-=======
-
->>>>>>> 09b0276983ce6553d062676fb619cb45b1bf620b
