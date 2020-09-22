@@ -7,7 +7,7 @@ nav_order: 4
 Wikipedia is a multilingual, web-based, free-content encyclopedia based on a model of openly editable content.
 Edits occur in real-time and are written collaboratively by people of all ages, cultures and backgrounds. What is contributed is more important than the expertise or qualifications of the contributor.
 
-* Learn more about Wikipedia's history: [https://en.wikipedia.org/wiki/History_of_Wikipedia](https://en.wikipedia.org/wiki/History_of_Wikipedia).
+Learn more about Wikipedia's history: [https://en.wikipedia.org/wiki/History_of_Wikipedia](https://en.wikipedia.org/wiki/History_of_Wikipedia).
 {: .note}
 
 ## Five Pillars of Wikipedia
