@@ -31,8 +31,8 @@ At the end of this workshop, participants will be able to:
 | 1:50 | Wrap-up and Discussion |
 
 ## Resources
-* Signing up to edit Wikipedia
-* Signing up to edit Wikidata
+* [Signing up to edit Wikipedia](https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wikipedia%3AWhy+create+an+account%3F)
+* [Signing up to edit Wikidata](https://www.wikidata.org/w/index.php?title=Special:CreateAccount&returnto=Wikidata%3AMain+Page)
 * [Workshop slides - currently restricted view](https://docs.google.com/presentation/d/1qzRTPbH-Nha3AgJCXkbFkkPf-apqpvX443CE6MfeeHk/edit?usp=sharing)
 
 ## What is this workshop not about?
