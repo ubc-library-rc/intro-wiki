@@ -31,10 +31,12 @@ Avoid editorial bias which includes:
 * Stating facts as opinions
 * Using judgmental language
 
+
 * Learn more about neutral points of view: https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view
 {: .note}
 
 ### Reliable resources
+
 Reliable sources for use are:
 * Published by a third-party with a reputation for fact-checking and accuracy.
 * May be academic and peer-reviewed
@@ -44,6 +46,7 @@ Reliable sources for use are:
   * Magazines
   * Journals
   * Mainstream newspapers
+
 
 * Learn more about reliable resources: https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
 {: .note}
@@ -60,6 +63,7 @@ Consensus on Wikipedia does not mean:
 * Unanimity
 * A majority vote
 * Stasis
+
 
 * Learn more about consensus: https://en.wikipedia.org/wiki/Wikipedia:Consensus
 {: .note}
