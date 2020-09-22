@@ -32,7 +32,7 @@ Avoid editorial bias which includes:
 * Using judgmental language
 
 
-* Learn more about neutral points of view: https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view
+Learn more about neutral points of view: https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view
 {: .note}
 
 ### Reliable resources
@@ -48,7 +48,7 @@ Reliable sources for use are:
   * Mainstream newspapers
 
 
-* Learn more about reliable resources: https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
+Learn more about reliable resources: https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
 {: .note}
 
 ### Consensus
@@ -64,13 +64,12 @@ Consensus on Wikipedia does not mean:
 * A majority vote
 * Stasis
 
-
-* Learn more about consensus: https://en.wikipedia.org/wiki/Wikipedia:Consensus
+Learn more about consensus: https://en.wikipedia.org/wiki/Wikipedia:Consensus
 {: .note}
 
 ### Conflict of Interest
 Wikipedia's Conflict of Interest policy is largely focused on preventing contributions by an individual about themselves, their family, their clients, employers, or others who may have a relationship with them.
 
-* Learn more about Conflict of Interest: https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest
-* Take a look at the [Wikipedia plain and simple conflict of interest guide](https://en.wikipedia.org/wiki/Wikipedia:Plain_and_simple_conflict_of_interest_guide).
+Learn more about Conflict of Interest: https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest
+And take a look at the [Wikipedia plain and simple conflict of interest guide](https://en.wikipedia.org/wiki/Wikipedia:Plain_and_simple_conflict_of_interest_guide).
 {: .note}

@@ -21,9 +21,9 @@ The original Wikidata project had three phases:
 
 Phase 1 went live in 2013 and Wikidata is currently in phase 2, as of 2016.
 
-* Learn more about the history of Wikidata: https://en.wikipedia.org/wiki/Wikidata#Development_history
-* Current statistics outlining Wikidata's growth: https://www.wikidata.org/wiki/Wikidata:Statistics
-* For a quick overview of how Wikidata works, explore at the "[Wikidata in brief](https://commons.wikimedia.org/wiki/File:Wikidata-in-brief-1.0.pdf)" handout.
+Learn more about the history of Wikidata: https://en.wikipedia.org/wiki/Wikidata#Development_history
+Current statistics outlining Wikidata's growth: https://www.wikidata.org/wiki/Wikidata:Statistics
+For a quick overview of how Wikidata works, explore at the "[Wikidata in brief](https://commons.wikimedia.org/wiki/File:Wikidata-in-brief-1.0.pdf)" handout.
 {: .note}
 
 ## Wikidata Structure
@@ -33,7 +33,7 @@ A large part of Wikidata's goal is to structure data that naturally lends itself
 
 Wikidata also has an open query tool which allows any user to explore what is in Wikidata through the query language [SPARQL](https://en.wikipedia.org/wiki/SPARQL).
 
-* Learn more about SPARQL: https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial
+Learn more about SPARQL: https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial
 {: .note}
 
 Through the transclusion of individual pieces of information into many places Wikidata is able to equalising knowledge access because no one language gets prioritized. All languages associated with a datapoint are included in the entry for a concept.
@@ -59,7 +59,7 @@ Same issue as other Wikimedia projects:
 
 Statements describe detailed characteristics of an Item and consist of a property and a value. Properties in Wikidata have a P followed by a number, such as with educated at (P69). "
 
-* Learn more about Wikidata's structure: https://www.wikidata.org/wiki/Wikidata:Introduction.
+Learn more about Wikidata's structure: https://www.wikidata.org/wiki/Wikidata:Introduction.
 {:. note}
 
 ## Tools to explore for WikiData
@@ -70,13 +70,13 @@ Statements describe detailed characteristics of an Item and consist of a propert
 # Wikidata for Teaching
 Wikidata has a number of educational resources to help educators teach linked open data concepts.
 
-* Learn more and explore resources: https://www.wikidata.org/wiki/Wikidata:Wikidata_educational_resources
+Learn more and explore resources: https://www.wikidata.org/wiki/Wikidata:Wikidata_educational_resources
 {: .note}
 
 # Wikidata for Research
 Wikibase is a powerful tool for exploring linked open data concepts and leveraging linked open data structures in the context of a research project.
 
-* Explore Wikibase: https://wikiba.se/
+Explore Wikibase: https://wikiba.se/
 {: .note}
 
 ## Example projects that use Wikibase
